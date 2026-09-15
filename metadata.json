@@ -1,0 +1,7 @@
+{
+  "name": "AI Smart Vision Assistant",
+  "description": "Real-time AI smart-glasses prototype providing accessible object detection, intelligent path guidance, hands-free voice AI assistant, OCR text reading, assisted navigation, and privacy-focused trusted person recognition for visually impaired users.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
